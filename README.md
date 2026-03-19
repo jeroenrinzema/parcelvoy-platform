@@ -2,7 +2,7 @@
 > 
 > This project has evolved into **Lunogram**.
 > 
-> Please head to [https://lunogram.io](https://lunogram.io) or [https://github.com/lunogram/platform](https://github.com/lunogram/platform) for the active project.
+> Please head to [https://lunogram.com](https://lunogram.com) or [https://github.com/lunogram/platform](https://github.com/lunogram/platform) for the active project.
 
 
 <br />
